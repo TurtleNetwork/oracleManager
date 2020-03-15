@@ -91,22 +91,22 @@ etho=''
 tusd='PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMiAzMiIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIGZpbGw9IiMyYjJlN2YiIHI9IjE2Ii8+PGcgZmlsbD0iI2ZmZiI+PHBhdGggZD0ibTE3LjEgMTl2LTUuOWguOGMyLjUgMCAzLjItMi40IDMuMi0yLjRoLTYuN2MtMy4yIDAtMy43IDIuNC0zLjcgMi40aDMuOXY4LjljLS4xIDAgMi41LS44IDIuNS0zeiIvPjxwYXRoIGQ9Im0yNC40IDIzLjZjMi4yLTIuMyAzLjEtNS42IDIuMy04LjctLjQtMS42LTEuMy0zLjEtMi41LTQuMy0uMS0uMS0uMi0uMi0uMy0uM2wtLjEtLjFjLS4xLS4xLS4yLS4xLS4yLS4ybC0uMS0uMS0uMi0uMmgtLjNjLS4xLS4xLS4yLS4xLS4zLS4ybC0uMi0uMWMtLjEgMC0uMS0uMS0uMi0uMWwtLjItLjFjLjEtLjEgMC0uMi0uMS0uMmwtLjItLjFjLS4xIDAtLjEtLjEtLjItLjFoLS4xYy4zLjIuNS4zLjcuNSAzLjQgMy40IDMuNSA4LjkuMSAxMi40IDAgMCAwIDAtLjEuMS00LjQgNC40LTExLjUgNC40LTE1LjkgMC0uMi0uMi0uMy0uMy0uNS0uNWwtLjEtLjFjLS4xLS4xLS4yLS4yLS4zLS4zLjYgMS4xIDEuMyAyLjEgMi4yIDMgNC42IDQuNSAxMiA0LjUgMTYuNiAwIC4xLS4yLjEtLjIuMi0uM3oiLz48cGF0aCBkPSJtMTAuNCAyMi40Yy0uMi0uMi0uNC0uMy0uNi0uNS0zLjQtMy40LTMuNS05LS4xLTEyLjQgMCAwIDAgMCAuMS0uMSA0LjQtNC40IDExLjUtNC40IDE1LjkgMCAuMy4zLjYuNi45IDEtLjYtMS4xLTEuMy0yLjEtMi4yLTMtNC42LTQuNi0xMi00LjYtMTYuNiAwLS4xLjEtLjEuMS0uMi4yLTMgMy4yLTMuNSA3LjktMSAxMS41LjkgMS40IDIuMyAyLjYgMy44IDMuM3oiLz48L2c+PC9zdmc+'
 
 # TODO: Status 2 seems to be when an asset is active and verified
-add_token('ACL', 2, 'info@rcanelabs.com', '3HFgaMssup9ssSL139sptsxc2EXLY3Qx5ykY7hf5LD2B','https://rcanelabs.com',acl,0)
+add_token('ACL', 2, 'info@rcanelabs.com', '3HFgaMssup9ssSL139sptsxc2EXLY3Qx5ykY7hf5LD2B','proxy','https://rcanelabs.com',acl,0)
 add_token('BCH', 2, 'support@turtlenetwork.eu', 'Fr2kNhe7XR3E16W7Mfh7NhNcsQWLXx3hSLjoFgpbFsNj','Bitcoin Cash proxy token for the gateway.','https://turtlenetwork.eu','weneedabase64encodedsvg',0)
 add_token('BTC', 2, 'support@turtlenetwork.eu', '5Asy9P3xjcvBAgbeyiitZhBRJZJ2TPGSZJz9ihDTnB3d')
 add_token('DASH', 2, 'support@turtlenetwork.eu', 'A62sRG58HFbWUNvFoEEjX4U3txXKcLm11MXWWS429qpN')
 add_token('DOGE', 2, 'support@turtlenetwork.eu', 'HDeemVktm2Z68RMkyA7AexhpaCqot1By7adBzaN9j5Xg')
 add_token('ETH', 2, 'support@turtlenetwork.eu', '6Mh41byVWPg8JVCfuwG5CAPCh9Q7gnuaAVxjDfVNDmcD')
-add_token('ETHO', 2, 'support@kgbconcepts.network','GzHRyYtdwvaGSkUC4i8d3Xzmsz9aXBWdrpMNszi6bcvR','https://turtlenetwork.eu',etho,0)
-add_token('HN', 2, '------', '3GvqjyJFBe1fpiYnGsmiZ1YJTkYiRktQ86M2KMzcTb2s','Hellenic Node project','https://www.hellenicnode.eu/','',0)
+add_token('ETHO', 2, 'support@kgbconcepts.network','GzHRyYtdwvaGSkUC4i8d3Xzmsz9aXBWdrpMNszi6bcvR','proxy','https://turtlenetwork.eu',etho,0)
+add_token('HN', 2, '------', '3GvqjyJFBe1fpiYnGsmiZ1YJTkYiRktQ86M2KMzcTb2s','Hellenic Node project','proxy','https://www.hellenicnode.eu/','',0)
 add_token('LTC', 2, 'support@turtlenetwork.eu', '3vB9hXHTCYbPiQNuyxCQgXF6AvFg51ozGKL9QkwoCwaS')
 add_token('MLT', 2, '------', '7jcY6DDYsSo7NuZEAruWhrB5apebA2cERhrBx6RFk5tL')
 add_token('MN', 2, '------', 'DfutD8DdUhDphHoaMds2RQhw7oCmsf7W41s2zR5ZDq9F')
 add_token('SCOM', 2, '------', '7tC2ZukogadhvHUdKQyWJ2cbk6T1viTCFJMgevVeTY1Y')
 add_token('SSYS', 2, '------', 'HBxBjymrCC8TuL8rwCLr2vakDEq4obqkMwYYPEZtTauA')
 add_token('TN', 2, 'support@turtlenetwork.eu', 'TN','Native currency','https://turtlenetwork.eu',tn,0)
-add_token('SENT', 2, 'info@rcanelabs.com','AVJc3uYu8HdjQEx4rroaq6v4Xv4L1etG1tQPeuqs38Sf','https://rcanelabs.com',sent,0)
-add_token('TUSD', 2, 'info@rcanelabs.com','2R7raH74LuuiCbJbcv3Aa7g14WY1vYPUGushCUJFwW1f','https://rcanelabs.com',tusd,0)
+add_token('SENT', 2, 'info@rcanelabs.com','AVJc3uYu8HdjQEx4rroaq6v4Xv4L1etG1tQPeuqs38Sf','proxy','https://rcanelabs.com',sent,0)
+add_token('TUSD', 2, 'info@rcanelabs.com','2R7raH74LuuiCbJbcv3Aa7g14WY1vYPUGushCUJFwW1f','proxy','https://rcanelabs.com',tusd,0)
 add_token('WAVES', 2, 'support@turtlenetwork.eu', 'EzwaF58ssALcUCZ9FbyeD1GTSteoZAQZEDTqBAXHfq8y')
 add_token('WGR', 2, 'support@turtlenetwork.eu', '91NnG9iyUs3ZT3tqK1oQ3ddpgAkE7v5Kbcgp2hhnDhqd')
 
