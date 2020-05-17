@@ -119,7 +119,6 @@ add_token('HN', 2, '------', '3GvqjyJFBe1fpiYnGsmiZ1YJTkYiRktQ86M2KMzcTb2s', 'He
           'https://www.hellenicnode.eu', '', 0)
 add_token('LTC', 2, 'support@turtlenetwork.eu', '3vB9hXHTCYbPiQNuyxCQgXF6AvFg51ozGKL9QkwoCwaS',
           'LTC proxy token for the gateway operated by Black Turtle BVBA.', 'https://turtlenetwork.eu')
-add_token('MLT', 2, '------', '7jcY6DDYsSo7NuZEAruWhrB5apebA2cERhrBx6RFk5tL')
 add_token('MN', 2, '------', 'DfutD8DdUhDphHoaMds2RQhw7oCmsf7W41s2zR5ZDq9F')
 add_token('SCOM', 2, '------', '7tC2ZukogadhvHUdKQyWJ2cbk6T1viTCFJMgevVeTY1Y')
 add_token('SSYS', 2, '------', 'HBxBjymrCC8TuL8rwCLr2vakDEq4obqkMwYYPEZtTauA')
@@ -139,3 +138,5 @@ add_token('WGR', 2, 'support@turtlenetwork.eu', '91NnG9iyUs3ZT3tqK1oQ3ddpgAkE7v5
 add_token('BTN', 0, '------', 'ExbYSuz4DZwf9grp3K8s3CSbNtE9fob2DtTKgbLGFXsJ')
 add_token('FR', 0, '------', '4xUv25qFsjQ1Gd6oCmzU14FoPMSDXrwub5PbKRgETf97')
 add_token('KA', 0, '------', '5Dy1qVUzEwq6WEUGMy7CkkkbmFuxb2RTBRfs4JKc5b88')
+add_token('MLT', 0, '------', '7jcY6DDYsSo7NuZEAruWhrB5apebA2cERhrBx6RFk5tL')
+
