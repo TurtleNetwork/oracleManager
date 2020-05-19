@@ -140,7 +140,7 @@ add_token('TUSD', 2, 'info@rcanelabs.com', '2R7raH74LuuiCbJbcv3Aa7g14WY1vYPUGush
 add_token('WAVES', 2, 'support@turtlenetwork.eu', 'EzwaF58ssALcUCZ9FbyeD1GTSteoZAQZEDTqBAXHfq8y',
           'WAVES proxy token for the gateway operated by Black Turtle BVBA.')
 add_token('WGR', 2, 'support@turtlenetwork.eu', '91NnG9iyUs3ZT3tqK1oQ3ddpgAkE7v5Kbcgp2hhnDhqd',
-          'WGR proxy token for the gateway operated by Black Turtle BVBA.')
+          'WGR proxy token for the gateway operated by Black Turtle BVBA.', 'https://wagerr.com/', wgr, 0)
 
 # Not verified
 add_token('BTN', 0, '------', 'ExbYSuz4DZwf9grp3K8s3CSbNtE9fob2DtTKgbLGFXsJ')
