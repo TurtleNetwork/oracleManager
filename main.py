@@ -154,8 +154,3 @@ add_token('FR', 0, '------', '4xUv25qFsjQ1Gd6oCmzU14FoPMSDXrwub5PbKRgETf97')
 add_token('KA', 0, '------', '5Dy1qVUzEwq6WEUGMy7CkkkbmFuxb2RTBRfs4JKc5b88')
 add_token('MLT', 0, '------', '7jcY6DDYsSo7NuZEAruWhrB5apebA2cERhrBx6RFk5tL')
 
-# Not verified
-add_token('BTN', 0, '------', 'ExbYSuz4DZwf9grp3K8s3CSbNtE9fob2DtTKgbLGFXsJ')
-add_token('FR', 0, '------', '4xUv25qFsjQ1Gd6oCmzU14FoPMSDXrwub5PbKRgETf97')
-add_token('KA', 0, '------', '5Dy1qVUzEwq6WEUGMy7CkkkbmFuxb2RTBRfs4JKc5b88')
-add_token('MLT', 0, '------', '7jcY6DDYsSo7NuZEAruWhrB5apebA2cERhrBx6RFk5tL')
