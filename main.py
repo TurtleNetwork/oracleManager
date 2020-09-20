@@ -145,12 +145,11 @@ add_token('USDT', 2, 'info@rcanelabs.com', '7RB3BWayeCVPq3kkpkeJZAFv2DYCB5gEwnut
           'https://rcanelabs.com', usdt, 0)
 add_token('WAVES', 2, 'support@turtlenetwork.eu', 'EzwaF58ssALcUCZ9FbyeD1GTSteoZAQZEDTqBAXHfq8y',
           'WAVES proxy token for the gateway operated by Black Turtle BVBA.')
-add_token('WGR', 2, 'support@turtlenetwork.eu', '91NnG9iyUs3ZT3tqK1oQ3ddpgAkE7v5Kbcgp2hhnDhqd',
-          'WGR proxy token for the gateway operated by Black Turtle BVBA.', 'https://wagerr.com/', wgr, 0)
+
 
 # Not verified
 add_token('BTN', 0, '------', 'ExbYSuz4DZwf9grp3K8s3CSbNtE9fob2DtTKgbLGFXsJ')
 add_token('FR', 0, '------', '4xUv25qFsjQ1Gd6oCmzU14FoPMSDXrwub5PbKRgETf97')
 add_token('KA', 0, '------', '5Dy1qVUzEwq6WEUGMy7CkkkbmFuxb2RTBRfs4JKc5b88')
 add_token('MLT', 0, '------', '7jcY6DDYsSo7NuZEAruWhrB5apebA2cERhrBx6RFk5tL')
-
+add_token('WGR', 0, '------', '91NnG9iyUs3ZT3tqK1oQ3ddpgAkE7v5Kbcgp2hhnDhqd')
