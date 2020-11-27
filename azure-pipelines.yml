@@ -6,7 +6,7 @@ variables:
 - group: oracle
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
