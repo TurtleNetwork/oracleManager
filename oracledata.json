@@ -112,7 +112,7 @@
     {
         "ticker": "SYS",
         "status": 2,
-        "email": "---",
+        "email": "support@turtlenetwork.eu",
         "asset_id": "HBxBjymrCC8TuL8rwCLr2vakDEq4obqkMwYYPEZtTauA", 
         "description": "Syscoin Gateway token", 
         "link": "https://syscoin.org/", 
@@ -165,7 +165,7 @@
         "email": "support@turtlenetwork.eu",
         "asset_id": "EzwaF58ssALcUCZ9FbyeD1GTSteoZAQZEDTqBAXHfq8y", 
         "description": "WAVES proxy token for the gateway operated by Black Turtle BVBA.", 
-        "link": "", 
+        "link": "https://waves.exchange",
         "logo": "", 
         "version": 0
     }
