@@ -29,3 +29,5 @@ steps:
 - script: |
     python main.py
   displayName: 'execute'
+  env:
+    SEED: $(SEED)
