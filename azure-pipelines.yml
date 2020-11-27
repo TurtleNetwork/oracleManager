@@ -24,6 +24,7 @@ steps:
 - script: |
     python -m pip install --upgrade pip
     pip install pywaves
+    pip install pandas
   displayName: 'Install dependencies'
 
 - script: |
