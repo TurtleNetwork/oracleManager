@@ -52,10 +52,10 @@
     {
         "ticker": "ETH", 
         "status": 2, 
-        "email": "support@turtlenetwork.eu",
+        "email": "support@polarity.exchange",
         "asset_id": "6Mh41byVWPg8JVCfuwG5CAPCh9Q7gnuaAVxjDfVNDmcD", 
-        "description": "ETH proxy token for the gateway operated by Black Turtle BVBA.", 
-        "link": "https://turtlenetwork.eu", 
+        "description": "ETH proxy token for the gateway operated by polarity.exchange.",
+        "link": "https://polarity.exchange",
         "logo": "", 
         "version": 0
     },
