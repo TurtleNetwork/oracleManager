@@ -148,5 +148,26 @@
         "link": "https://waves.exchange",
         "logo": "", 
         "version": 0
+    },
+    {
+        "ticker": "LINK",
+        "status": 2,
+        "email": "support@polarity.exchange",
+        "asset_id": "AvsQX6MaRvLqo78JMxWHzZjkfTaX4K6SGSKEw8SVjLgw",
+        "description": "Officially Backed Gateway Token for ChainLink ($LINK) 1:1 Gateway Peg",
+        "link": "https://chain.link",
+        "logo": "PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAyMDAxMDkwNC8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NzdweCIgaGVpZ2h0PSI1NzdweCIgdmlld0JveD0iMCAwIDU3NzAgNTc3MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+CjxnIGlkPSJsYXllcjEwMSIgZmlsbD0iIzJhNWFkYSIgc3Ryb2tlPSJub25lIj4KIDxwYXRoIGQ9Ik0yNDMwIDU1MDYgYy0yNTAgLTE0NSAtODEzIC00NjggLTEyNTAgLTcxOSBsLTc5NSAtNDU1IC0zIC0xNDQ1IC0yIC0xNDQ1IDYzMiAtMzY1IGMzNDggLTIwMSA5MDggLTUyNCAxMjQzIC03MTcgMzM2IC0xOTQgNjE1IC0zNTQgNjIxIC0zNTcgMTEgLTQgMTc1IDg5IDE0ODkgODQ5IDM4NSAyMjIgNzczIDQ0NiA4NjMgNDk3IGwxNjIgOTQgMCAxNDQyIDAgMTQ0MiAtMTk3IDExNCBjLTEwOSA2MiAtNTc0IDMzMiAtMTAzMyA1OTkgLTEwMjYgNTk4IC0xMjU2IDczMCAtMTI2NyA3MjkgLTQgMCAtMjEzIC0xMTkgLTQ2MyAtMjYzeiBtMTE5NSAtMTM4NCBsNjkwIC0zOTkgMCAtODM4IDAgLTgzOCAtNzE0IC00MTMgYy0zOTMgLTIyNyAtNzE3IC00MTIgLTcyMCAtNDEwIC00IDEgLTMyOSAxODkgLTcyMyA0MTcgbC03MTggNDEzIDAgODMxIDAgODMxIDcyMSA0MTYgYzY5OSA0MDQgNzIyIDQxNyA3NDggNDAzIDE0IC04IDMzNyAtMTkzIDcxNiAtNDEzeiIvPgogPC9nPgoKPC9zdmc+",
+        "version": 0
+    },
+    {
+        "ticker": "XMR",
+        "status": 2,
+        "email": "support@polarity.exchange",
+        "asset_id": "BknLVPoKrWowgH946guVqLNsCZe1aFQaXS5GseFZCo99",
+        "description": "Officially Backed Gateway Token for Monero ($XMR) 1:1 Gateway Peg.",
+        "link": "https://www.getmonero.org/",
+        "logo":
+"PHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTEyNy45OTggMEM1Ny4zMTggMCAwIDU3LjMxNyAwIDEyNy45OTljMCAxNC4xMjcgMi4yOSAyNy43MTYgNi41MTggNDAuNDNINDQuOFY2MC43MzNsODMuMiA4My4yIDgzLjE5OC04My4ydjEwNy42OTVoMzguMjgyYzQuMjMxLTEyLjcxNCA2LjUyMS0yNi4zMDMgNi41MjEtNDAuNDNDMjU2IDU3LjMxNCAxOTguNjgxIDAgMTI3Ljk5OCAwIiBmaWxsPSIjRjYwIi8+PHBhdGggZD0iTTEwOC44NjcgMTYzLjA2MmwtMzYuMzEtMzYuMzExdjY3Ljc2NUgxOC42MjNjMjIuNDcgMzYuODYzIDYzLjA1MSA2MS40OCAxMDkuMzczIDYxLjQ4czg2LjkwNy0yNC42MTcgMTA5LjM3NC02MS40OGgtNTMuOTMzVjEyNi43NWwtMzYuMzEgMzYuMzEtMTkuMTMgMTkuMTI5LTE5LjEyOC0xOS4xMjhoLS4wMDJ6IiBmaWxsPSIjNEM0QzRDIi8+PC9zdmc+",
+       "version": 0
     }
 ]
